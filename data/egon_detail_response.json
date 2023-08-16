@@ -1,0 +1,147 @@
+{
+    "Plans": [
+        {
+            "PlanName": "iTerm Prime",
+            "PlanId": 44407,
+            "IsSelected": false,
+            "SumAssured": 4999000,
+            "TotalCover": 4999000,
+            "MonthlyIncome": 0,
+            "OneTimePayout": 4999000,
+            "OneTimePayoutPercentage": 0,
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 6777.0,
+                    "GSTOnPremium": 1220.0,
+                    "TotalPremium": 7997.0,
+                    "TotalPremiumWithRiders": 0.0,
+                    "ComboCITPDPremium": 0.0,
+                    "SecondYearPremium": 8418.0,
+                    "SecondYearGSTOnPremium": 1284.12,
+                    "SecondYearPremiumWithoutGST": 7134.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 590.0,
+                    "GSTOnPremium": 106.0,
+                    "TotalPremium": 696.0,
+                    "TotalPremiumWithRiders": 0.0,
+                    "ComboCITPDPremium": 0.0,
+                    "SecondYearPremium": 733.0,
+                    "SecondYearGSTOnPremium": 111.78,
+                    "SecondYearPremiumWithoutGST": 621.0
+                },
+                {
+                    "PaymentFrequency": 4,
+                    "PremiumWithoutGST": 0.0,
+                    "GSTOnPremium": 0.0,
+                    "TotalPremium": 0.0,
+                    "TotalPremiumWithRiders": 0.0,
+                    "ComboCITPDPremium": 0.0,
+                    "SecondYearPremium": 0.0,
+                    "SecondYearGSTOnPremium": 0.0,
+                    "SecondYearPremiumWithoutGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 3470.0,
+                    "GSTOnPremium": 625.0,
+                    "TotalPremium": 4095.0,
+                    "TotalPremiumWithRiders": 0.0,
+                    "ComboCITPDPremium": 0.0,
+                    "SecondYearPremium": 4311.0,
+                    "SecondYearGSTOnPremium": 657.54,
+                    "SecondYearPremiumWithoutGST": 3653.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 112,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 3000000,
+                    "MinSumAssured": 25000,
+                    "MaxSumAssured": 3000000,
+                    "PolicyTerm": 36,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 1283.0,
+                            "GSTOnPremium": 231.0,
+                            "TotalPremium": 1514.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "ComboCITPDPremium": 0.0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearGSTOnPremium": 0.0,
+                            "SecondYearPremiumWithoutGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 112.0,
+                            "GSTOnPremium": 20.0,
+                            "TotalPremium": 132.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "ComboCITPDPremium": 0.0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearGSTOnPremium": 0.0,
+                            "SecondYearPremiumWithoutGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 0.0,
+                            "GSTOnPremium": 0.0,
+                            "TotalPremium": 0.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "ComboCITPDPremium": 0.0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearGSTOnPremium": 0.0,
+                            "SecondYearPremiumWithoutGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 657.0,
+                            "GSTOnPremium": 118.0,
+                            "TotalPremium": 775.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "ComboCITPDPremium": 0.0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearGSTOnPremium": 0.0,
+                            "SecondYearPremiumWithoutGST": 0.0
+                        }
+                    ]
+                }
+            ],
+            "ClaimsSettled": "99.37"
+        }
+    ],
+    "PaymentTermType": "Regular",
+    "PolicyTerm": 60,
+    "PremiumPayingTerm": 60,
+    "customerInfo": {
+        "VisitId": 1436224319,
+        "CustomerId": 85146408,
+        "CountryId": 392,
+        "OtherCountryCode": 91,
+        "CityId": 309,
+        "StateId": 20,
+        "SubProductTypeId": 0,
+        "encodedEnquiryId": "DlqAv9rneI8UWcpvsMgzNA==",
+        "DOB": "28-02-1999",
+        "Gender": 2,
+        "Name": "Sreelakshmi Suresh",
+        "Smoker": 0,
+        "Mobile": "******8080",
+        "EmailId": null,
+        "City": null,
+        "EncryptedMobileNo": "rVweRqdLm6/Jhkz8o7I8jQ==",
+        "PolicyTerm": 60,
+        "CustomerAge": 24,
+        "MatrixLeadId": 566461492,
+        "encryptedMobileNo": null,
+        "SumAssured": 4999000,
+        "ProfessionType": "Salaried"
+    }
+}

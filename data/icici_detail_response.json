@@ -1,0 +1,468 @@
+{
+    "Plans": [
+        {
+            "PlanName": "iProtect Smart Lumpsum",
+            "BasePlanId": 0,
+            "PlanId": 892,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 0,
+            "OneTimePayout": 5000000,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "97.9",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 5386.0,
+                    "GSTOnPremium": 969.0,
+                    "TotalPremium": 6355.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 460.0,
+                    "GSTOnPremium": 83.0,
+                    "TotalPremium": 543.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 2727.0,
+                    "GSTOnPremium": 491.0,
+                    "TotalPremium": 3218.0,
+                    "TotalPremiumWithRiders": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 318,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 49.0,
+                            "GSTOnPremium": 8.54658,
+                            "TotalPremium": 57.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness Benefit",
+                    "RiderId": 319,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 986.0999999999999,
+                            "GSTOnPremium": 177.498,
+                            "TotalPremium": 1164.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 84.19568324999999,
+                            "GSTOnPremium": 15.155222984999996,
+                            "TotalPremium": 100.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 499.21312499999993,
+                            "GSTOnPremium": 89.85836249999998,
+                            "TotalPremium": 589.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        },
+        {
+            "PlanName": "iProtect Smart Level Monthly Income",
+            "BasePlanId": 0,
+            "PlanId": 893,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 41667,
+            "OneTimePayout": 0,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "97.9",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 4578.0,
+                    "GSTOnPremium": 824.0,
+                    "TotalPremium": 5402.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 391.0,
+                    "GSTOnPremium": 70.0,
+                    "TotalPremium": 461.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 2318.0,
+                    "GSTOnPremium": 417.0,
+                    "TotalPremium": 2735.0,
+                    "TotalPremiumWithRiders": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 318,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 49.0,
+                            "GSTOnPremium": 8.54658,
+                            "TotalPremium": 57.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness Benefit",
+                    "RiderId": 319,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 986.0999999999999,
+                            "GSTOnPremium": 177.498,
+                            "TotalPremium": 1164.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 84.19568324999999,
+                            "GSTOnPremium": 15.155222984999996,
+                            "TotalPremium": 100.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 499.21312499999993,
+                            "GSTOnPremium": 89.85836249999998,
+                            "TotalPremium": 589.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        },
+        {
+            "PlanName": "iProtect Smart Increasing Monthly income",
+            "BasePlanId": 0,
+            "PlanId": 894,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 41667,
+            "OneTimePayout": 0,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "97.9",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 6786.0,
+                    "GSTOnPremium": 1222.0,
+                    "TotalPremium": 8007.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 579.0,
+                    "GSTOnPremium": 104.0,
+                    "TotalPremium": 683.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 3436.0,
+                    "GSTOnPremium": 618.0,
+                    "TotalPremium": 4054.0,
+                    "TotalPremiumWithRiders": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 318,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 49.0,
+                            "GSTOnPremium": 8.54658,
+                            "TotalPremium": 57.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness Benefit",
+                    "RiderId": 319,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 986.0999999999999,
+                            "GSTOnPremium": 177.498,
+                            "TotalPremium": 1164.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 84.19568324999999,
+                            "GSTOnPremium": 15.155222984999996,
+                            "TotalPremium": 100.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 499.21312499999993,
+                            "GSTOnPremium": 89.85836249999998,
+                            "TotalPremium": 589.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        },
+        {
+            "PlanName": "iProtect Lump Sum + Monthly Income",
+            "BasePlanId": 0,
+            "PlanId": 895,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 20833,
+            "OneTimePayout": 2500000,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "97.9",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 4982.0,
+                    "GSTOnPremium": 897.0,
+                    "TotalPremium": 5879.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 425.0,
+                    "GSTOnPremium": 77.0,
+                    "TotalPremium": 502.0,
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 2522.0,
+                    "GSTOnPremium": 454.0,
+                    "TotalPremium": 2976.0,
+                    "TotalPremiumWithRiders": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 318,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 49.0,
+                            "GSTOnPremium": 8.54658,
+                            "TotalPremium": 57.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness Benefit",
+                    "RiderId": 319,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 986.0999999999999,
+                            "GSTOnPremium": 177.498,
+                            "TotalPremium": 1164.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 84.19568324999999,
+                            "GSTOnPremium": 15.155222984999996,
+                            "TotalPremium": 100.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 499.21312499999993,
+                            "GSTOnPremium": 89.85836249999998,
+                            "TotalPremium": 589.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        }
+    ],
+    "PaymentTermType": "Regular",
+    "PolicyTerm": 60,
+    "PremiumPayingTerm": 60,
+    "IsPremiumDiscounted": false,
+    "customerInfo": {
+        "VisitId": 1436224319,
+        "CustomerId": 85146408,
+        "CountryId": 392,
+        "OtherCountryCode": 91,
+        "CityId": 309,
+        "StateId": 20,
+        "SubProductTypeId": 0,
+        "encodedEnquiryId": "DlqAv9rneI8UWcpvsMgzNA==",
+        "DOB": "28-02-1999",
+        "Gender": 2,
+        "Name": "Sreelakshmi Suresh",
+        "Smoker": 0,
+        "Mobile": "******8080",
+        "EmailId": null,
+        "City": null,
+        "EncryptedMobileNo": "rVweRqdLm6/Jhkz8o7I8jQ==",
+        "PolicyTerm": 60,
+        "CustomerAge": 24,
+        "MatrixLeadId": 566461492,
+        "encryptedMobileNo": null,
+        "EducationID": null,
+        "OccupationID": null
+    }
+}

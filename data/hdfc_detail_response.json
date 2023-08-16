@@ -1,0 +1,745 @@
+{
+    "Plans": [
+        {
+            "PlanName": "Click 2 Protect Super",
+            "BasePlanId": 20311,
+            "PlanId": 20311,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 0,
+            "OneTimePayout": 5000000,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "99.3",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 5405.0,
+                    "GSTOnPremium": 973.0,
+                    "TotalPremium": 6378.0,
+                    "TotalPremiumWithRiders": 6378.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 6714.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 473.0,
+                    "GSTOnPremium": 85.0,
+                    "TotalPremium": 558.0,
+                    "TotalPremiumWithRiders": 558.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 587.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 4,
+                    "PremiumWithoutGST": 1405.0,
+                    "GSTOnPremium": 253.0,
+                    "TotalPremium": 1658.0,
+                    "TotalPremiumWithRiders": 1658.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 1746.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 2757.0,
+                    "GSTOnPremium": 496.0,
+                    "TotalPremium": 3253.0,
+                    "TotalPremiumWithRiders": 3253.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 3424.0,
+                    "SecondYearPremiumWGST": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 701,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 5000000,
+                    "MinSumAssured": -1,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 3041.0,
+                            "GSTOnPremium": 547.0,
+                            "TotalPremium": 3588.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 266.0,
+                            "GSTOnPremium": 48.0,
+                            "TotalPremium": 314.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 791.0,
+                            "GSTOnPremium": 142.0,
+                            "TotalPremium": 933.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 1550.0,
+                            "GSTOnPremium": 279.0,
+                            "TotalPremium": 1829.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Accidental Disability /Dismemberment (Income Benefit)",
+                    "RiderId": 702,
+                    "CategoryId": 12,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 36,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 270.0,
+                            "GSTOnPremium": 48.6,
+                            "TotalPremium": 319.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 23.625,
+                            "GSTOnPremium": 4.2524999999999995,
+                            "TotalPremium": 28.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 70.2,
+                            "GSTOnPremium": 12.636,
+                            "TotalPremium": 83.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 137.7,
+                            "GSTOnPremium": 24.785999999999998,
+                            "TotalPremium": 162.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness",
+                    "RiderId": 703,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 25000,
+                    "MaxSumAssured": 15000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 642.1999999999999,
+                            "GSTOnPremium": 115.59599999999999,
+                            "TotalPremium": 758.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 56.19249999999999,
+                            "GSTOnPremium": 10.114649999999997,
+                            "TotalPremium": 66.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 166.97199999999998,
+                            "GSTOnPremium": 30.054959999999994,
+                            "TotalPremium": 197.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 327.522,
+                            "GSTOnPremium": 58.953959999999995,
+                            "TotalPremium": 387.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Waiver Of Premium on Critical Illness (WOP CI)",
+                    "RiderId": 705,
+                    "CategoryId": 38,
+                    "IsSelected": false,
+                    "SumAssured": 5000000,
+                    "MinSumAssured": -1,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 192.39524999999958,
+                            "GSTOnPremium": 34.531144999999924,
+                            "TotalPremium": 227.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 16.77208437499985,
+                            "GSTOnPremium": 3.1589751874999763,
+                            "TotalPremium": 20.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 50.32276499999989,
+                            "GSTOnPremium": 8.958097699999996,
+                            "TotalPremium": 59.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 97.67157749999933,
+                            "GSTOnPremium": 17.840883949999807,
+                            "TotalPremium": 116.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        },
+        {
+            "PlanName": "Click 2 Protect Super",
+            "BasePlanId": 20315,
+            "PlanId": 20315,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 0,
+            "OneTimePayout": 5000000,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "99.3",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 7478.0,
+                    "GSTOnPremium": 1346.0,
+                    "TotalPremium": 8824.0,
+                    "TotalPremiumWithRiders": 8824.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 9288.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 654.0,
+                    "GSTOnPremium": 118.0,
+                    "TotalPremium": 772.0,
+                    "TotalPremiumWithRiders": 772.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 813.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 4,
+                    "PremiumWithoutGST": 1944.0,
+                    "GSTOnPremium": 350.0,
+                    "TotalPremium": 2294.0,
+                    "TotalPremiumWithRiders": 2294.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 2415.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 3814.0,
+                    "GSTOnPremium": 686.0,
+                    "TotalPremium": 4500.0,
+                    "TotalPremiumWithRiders": 4500.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 4737.0,
+                    "SecondYearPremiumWGST": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Disability /Dismemberment (Income Benefit)",
+                    "RiderId": 702,
+                    "CategoryId": 12,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 36,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 270.0,
+                            "GSTOnPremium": 48.6,
+                            "TotalPremium": 319.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 23.625,
+                            "GSTOnPremium": 4.2524999999999995,
+                            "TotalPremium": 28.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 70.2,
+                            "GSTOnPremium": 12.636,
+                            "TotalPremium": 83.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 137.7,
+                            "GSTOnPremium": 24.785999999999998,
+                            "TotalPremium": 162.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness",
+                    "RiderId": 703,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 25000,
+                    "MaxSumAssured": 15000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 642.1999999999999,
+                            "GSTOnPremium": 115.59599999999999,
+                            "TotalPremium": 758.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 56.19249999999999,
+                            "GSTOnPremium": 10.114649999999997,
+                            "TotalPremium": 66.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 166.97199999999998,
+                            "GSTOnPremium": 30.054959999999994,
+                            "TotalPremium": 197.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 327.522,
+                            "GSTOnPremium": 58.953959999999995,
+                            "TotalPremium": 387.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Waiver Of Premium on Critical Illness (WOP CI)",
+                    "RiderId": 705,
+                    "CategoryId": 38,
+                    "IsSelected": false,
+                    "SumAssured": 5000000,
+                    "MinSumAssured": -1,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 265.4365888499997,
+                            "GSTOnPremium": 47.81858599299994,
+                            "TotalPremium": 313.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 23.55070152437486,
+                            "GSTOnPremium": 3.959126274387472,
+                            "TotalPremium": 28.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 69.29351310099992,
+                            "GSTOnPremium": 12.392832358179987,
+                            "TotalPremium": 82.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 135.1526603135003,
+                            "GSTOnPremium": 24.84747885643003,
+                            "TotalPremium": 160.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        },
+        {
+            "PlanName": "Click 2 Protect Super",
+            "BasePlanId": 20316,
+            "PlanId": 20316,
+            "IsSelected": false,
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "MonthlyIncome": 0,
+            "OneTimePayout": 5000000,
+            "OneTimePayoutPercentage": 0,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "99.3",
+            "Premiums": [
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 6221.0,
+                    "GSTOnPremium": 1120.0,
+                    "TotalPremium": 7341.0,
+                    "TotalPremiumWithRiders": 7341.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 7727.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 544.0,
+                    "GSTOnPremium": 98.0,
+                    "TotalPremium": 642.0,
+                    "TotalPremiumWithRiders": 642.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 676.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 4,
+                    "PremiumWithoutGST": 1617.0,
+                    "GSTOnPremium": 291.0,
+                    "TotalPremium": 1908.0,
+                    "TotalPremiumWithRiders": 1908.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 2009.0,
+                    "SecondYearPremiumWGST": 0.0
+                },
+                {
+                    "PaymentFrequency": 2,
+                    "PremiumWithoutGST": 3173.0,
+                    "GSTOnPremium": 571.0,
+                    "TotalPremium": 3744.0,
+                    "TotalPremiumWithRiders": 3744.0,
+                    "survivalBenefit": 0,
+                    "SecondYearPremium": 3941.0,
+                    "SecondYearPremiumWGST": 0.0
+                }
+            ],
+            "Riders": [
+                {
+                    "RiderName": "Accidental Disability /Dismemberment (Income Benefit)",
+                    "RiderId": 702,
+                    "CategoryId": 12,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 36,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 270.0,
+                            "GSTOnPremium": 48.6,
+                            "TotalPremium": 319.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 23.625,
+                            "GSTOnPremium": 4.2524999999999995,
+                            "TotalPremium": 28.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 70.2,
+                            "GSTOnPremium": 12.636,
+                            "TotalPremium": 83.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 137.7,
+                            "GSTOnPremium": 24.785999999999998,
+                            "TotalPremium": 162.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Critical Illness",
+                    "RiderId": 703,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 25000,
+                    "MaxSumAssured": 15000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 642.1999999999999,
+                            "GSTOnPremium": 115.59599999999999,
+                            "TotalPremium": 758.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 56.19249999999999,
+                            "GSTOnPremium": 10.114649999999997,
+                            "TotalPremium": 66.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 166.97199999999998,
+                            "GSTOnPremium": 30.054959999999994,
+                            "TotalPremium": 197.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 327.522,
+                            "GSTOnPremium": 58.953959999999995,
+                            "TotalPremium": 387.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                },
+                {
+                    "RiderName": "Waiver Of Premium on Critical Illness (WOP CI)",
+                    "RiderId": 705,
+                    "CategoryId": 38,
+                    "IsSelected": false,
+                    "SumAssured": 5000000,
+                    "MinSumAssured": -1,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": "",
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 220.4824537000004,
+                            "GSTOnPremium": 39.46684166599994,
+                            "TotalPremium": 260.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 19.629714698749922,
+                            "GSTOnPremium": 3.4533486457749802,
+                            "TotalPremium": 23.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 4,
+                            "PremiumWithoutGST": 57.78543796200029,
+                            "GSTOnPremium": 10.46137883316004,
+                            "TotalPremium": 68.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 112.15605138699993,
+                            "GSTOnPremium": 20.32808924965991,
+                            "TotalPremium": 132.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                }
+            ],
+            "TropPlanPremiums": null
+        }
+    ],
+    "PaymentTermType": "Regular",
+    "PolicyTerm": 60,
+    "PremiumPayingTerm": 60,
+    "IsPremiumDiscounted": false,
+    "customerInfo": {
+        "VisitId": "1436224319",
+        "CustomerId": 85146408,
+        "CountryId": 392,
+        "OtherCountryCode": 91,
+        "CityId": 309,
+        "StateId": 20,
+        "SubProductTypeId": 0,
+        "encodedEnquiryId": "DlqAv9rneI8UWcpvsMgzNA==",
+        "DOB": "28-02-1999",
+        "Gender": 2,
+        "Name": "Sreelakshmi Suresh",
+        "Smoker": 0,
+        "Mobile": "******8080",
+        "EmailId": null,
+        "City": null,
+        "EncryptedMobileNo": "rVweRqdLm6/Jhkz8o7I8jQ==",
+        "PolicyTerm": 60,
+        "CustomerAge": 24,
+        "MatrixLeadId": "566461492",
+        "enquiryId": "501895203",
+        "sumassured": null
+    }
+}

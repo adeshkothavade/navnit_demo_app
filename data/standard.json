@@ -1,0 +1,206 @@
+{
+    "Plans": [
+        {
+            "SupplierName": "Care Health",
+            "SupplierID": 44,
+            "PlanID": 1,
+            "IsSelected": false,
+            "PlanName": "Care Supreme",
+            "SumAssured": 4000000,
+            "TotalCover": 4000000,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "97.9",
+            "Premiums":[
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 5386.0,
+                    "GSTOnPremium": 969.0,
+                    "TotalPremium": 6355.0,
+                    "modeOfPremium":"Yearly",
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 460.0,
+                    "GSTOnPremium": 83.0,
+                    "TotalPremium": 543.0,
+                    "modeOfPremium":"Monthly",
+                    "TotalPremiumWithRiders": 0.0
+                }
+            ],
+            "Riders":[
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 318,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "Premiums":[
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 49.0,
+                            "GSTOnPremium": 8.54658,
+                            "TotalPremium": 57.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                },
+                { 
+                    "RiderName": "Critical Illness Benefit",
+                    "RiderId": 319,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 986.0999999999999,
+                            "GSTOnPremium": 177.498,
+                            "TotalPremium": 1164.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 84.19568324999999,
+                            "GSTOnPremium": 15.155222984999996,
+                            "TotalPremium": 100.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 499.21312499999993,
+                            "GSTOnPremium": 89.85836249999998,
+                            "TotalPremium": 589.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SupplierName": "Care Health",
+            "SupplierID": 44,
+            "PlanID": 1,
+            "IsSelected": false,
+            "PlanName": "Care Supreme Plus",
+            "SumAssured": 5000000,
+            "TotalCover": 5000000,
+            "PolicyTerm": 36,
+            "ClaimsSettled": "97.9",
+            "Premiums":[
+                {
+                    "PaymentFrequency": 1,
+                    "PremiumWithoutGST": 6386.0,
+                    "GSTOnPremium": 1069.0,
+                    "TotalPremium": 7355.0,
+                    "modeOfPremium":"Yearly",
+                    "TotalPremiumWithRiders": 0.0
+                },
+                {
+                    "PaymentFrequency": 12,
+                    "PremiumWithoutGST": 660.0,
+                    "GSTOnPremium": 93.0,
+                    "TotalPremium": 743.0,
+                    "modeOfPremium":"Monthly",
+                    "TotalPremiumWithRiders": 0.0
+                }
+            ],
+            "Riders":[
+                {
+                    "RiderName": "Accidental Death Benefit",
+                    "RiderId": 308,
+                    "CategoryId": 10,
+                    "IsSelected": false,
+                    "SumAssured": 1000000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 20000000,
+                    "PolicyTerm": 36,
+                    "Premiums":[
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 49.0,
+                            "GSTOnPremium": 8.54658,
+                            "TotalPremium": 57.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                },
+                { 
+                    "RiderName": "Critical Illness Benefit",
+                    "RiderId": 309,
+                    "CategoryId": 15,
+                    "IsSelected": false,
+                    "SumAssured": 500000,
+                    "MinSumAssured": 100000,
+                    "MaxSumAssured": 5000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "Premiums": [
+                        {
+                            "PaymentFrequency": 1,
+                            "PremiumWithoutGST": 986.0999999999999,
+                            "GSTOnPremium": 177.498,
+                            "TotalPremium": 1164.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 12,
+                            "PremiumWithoutGST": 84.19568324999999,
+                            "GSTOnPremium": 15.155222984999996,
+                            "TotalPremium": 100.0,
+                            "TotalPremiumWithRiders": 0.0
+                        },
+                        {
+                            "PaymentFrequency": 2,
+                            "PremiumWithoutGST": 499.21312499999993,
+                            "GSTOnPremium": 89.85836249999998,
+                            "TotalPremium": 589.0,
+                            "TotalPremiumWithRiders": 0.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "PaymentTermType": "Regular",
+    "PolicyTerm": 60,
+    "PremiumPayingTerm": 60,
+    "IsPremiumDiscounted": false
+}

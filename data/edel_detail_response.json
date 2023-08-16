@@ -1,0 +1,369 @@
+{
+    "supplierPlans": [
+        {
+            "planDetails": [
+                {
+                    "riderIdCategory": [],
+                    "incomeBenefitPercentage": 0,
+                    "sumAssuredInterval": 0,
+                    "planName": "ET Zindagi Protect",
+                    "discount": 0,
+                    "premiumRate": 0,
+                    "tATData": "14",
+                    "survivalBenefitMonthly": 0,
+                    "errorRiders": [],
+                    "planId": 46684,
+                    "classicPremium": 0,
+                    "secondYearQuarterlyPremiumGST": 235.62,
+                    "quarterlyPremiumWGST": 1309,
+                    "isOneTimePlan": true,
+                    "dependency": "46684",
+                    "monthlyPremiumExclusiveTax": 0,
+                    "secondYearAnnualPremiumWGST": 5037,
+                    "modeOfPremium": [
+                        "Yearly",
+                        "Half-Yearly",
+                        "Quarterly",
+                        "Monthly"
+                    ],
+                    "maxTotalPremium": 5587,
+                    "newCoverageUpto": 60,
+                    "montlyTotalPremiumWithRidersUnRounded": 0,
+                    "maxSumAssured": 5000000,
+                    "isIncomeOptionPlan": false,
+                    "annualPremiumWGST": 5037,
+                    "halfYearlyTotalPremium": 2860,
+                    "planLogoName": "",
+                    "insuredDiscountMonthly": 0,
+                    "basicPremium": 5587,
+                    "policyTerm": 36,
+                    "maxAnnualReturn": "0",
+                    "monthlyTotalPremium": 491,
+                    "secondYearHalfYearlyPremiumGST": 464.03999999999996,
+                    "finalPremium": 5587,
+                    "sumAssured": 5000000,
+                    "pptOptions": {
+                        "myArrayList": [
+                            0
+                        ]
+                    },
+                    "secondYearMonthlyPremiumGST": 79.74,
+                    "isSelected": false,
+                    "variantPlanId": -1,
+                    "topUpPercentage": -1,
+                    "secondYearMonthlyPremiumWGST": 443,
+                    "totalPremiumWithRiders": 5587,
+                    "planToSwitch": 0,
+                    "additionalSumAssuredAnnual": 0,
+                    "errorMessage": "",
+                    "isLevelMonthlyPlan": false,
+                    "insuredDiscountHalfYearly": 0,
+                    "physicalQuarterlyPremium": 0,
+                    "quarterlyTotalSecondPremium": 1545,
+                    "unroundedPlanAnnualPremiumWGST": 0,
+                    "ppt": 0,
+                    "isIncreasingMonthlyPlan": false,
+                    "claimsSettled": "99.2",
+                    "monthlyExtraPremiumPayable": 0,
+                    "increasedTotalCover": 0,
+                    "additionalSumAssuredHalfYearly": 0,
+                    "brochuresLink": "https://termstatic.policybazaar.com/Term/SP042%20ETLI%20Zindagi%20Protect%20Brochure%20Final.pdf",
+                    "oneTimePayout": 5000000,
+                    "coverages": [
+                        29,
+                        30,
+                        31,
+                        32,
+                        33,
+                        34,
+                        35,
+                        36,
+                        37,
+                        38,
+                        39,
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        45,
+                        46,
+                        47,
+                        48,
+                        49,
+                        50,
+                        51,
+                        52,
+                        53,
+                        54,
+                        55,
+                        56,
+                        57,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        64,
+                        65,
+                        66,
+                        67,
+                        68,
+                        69,
+                        70,
+                        71,
+                        72,
+                        73,
+                        74,
+                        75,
+                        76,
+                        77,
+                        78,
+                        79,
+                        80,
+                        81,
+                        82,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        88,
+                        89,
+                        90,
+                        91,
+                        92,
+                        93,
+                        94,
+                        95,
+                        96,
+                        97,
+                        98,
+                        99,
+                        100
+                    ],
+                    "isWholeLifePlan": true,
+                    "incomeTerm": 20,
+                    "monthlyTotalSecondPremium": 523,
+                    "quarterlyTotalPremiumWithRiders": 1452,
+                    "survivalBenefitHalfYearly": 0,
+                    "isTermProductPage": true,
+                    "maxCoverageAge": 100,
+                    "monthlyPremiumGST": 80,
+                    "physicalMonthlyPremium": 0,
+                    "minimumAnnualIncome": 0,
+                    "halfYearlyPremiumWGST": 2578,
+                    "secondYearQuarterlyPremiumWGST": 1309,
+                    "secondYearAnnualPremiumGST": 906.66,
+                    "basePremiumExclusiveTax": 0,
+                    "medicalNeeded": "Yes",
+                    "totalCover": 5000000,
+                    "halfYearlyExtraPremiumPayable": 0,
+                    "montlyTotalPremiumWithRiders": 491,
+                    "additionalSumAssuredMonthly": 0,
+                    "orgSumassured": 5000000,
+                    "supplierId": 2446684,
+                    "selectedRidersName": {
+                        "myArrayList": []
+                    },
+                    "monthlyPremiumWGST": 443,
+                    "annualExtraPremiumPayable": 0,
+                    "planOrder": 0,
+                    "insuredDiscountAnnually": 0,
+                    "secondYearHalfYearlyPremiumWGST": 2578,
+                    "maxTotalCover": 5000000,
+                    "nonDirectMonthlyPremium": 0,
+                    "annualPremiumGST": 907,
+                    "claimsettlementRatio": 0,
+                    "quarterlyPremiumGST": 236,
+                    "survivalBenefit": 0,
+                    "halfYearlyTotalSecondPremium": 3042,
+                    "monthlySumAssuredPercentage": 0,
+                    "increasingIncomePercentage": -1,
+                    "physicalHalfYearlyPremium": 0,
+                    "totalPremiumWithRidersUnRounded": 0,
+                    "grandTotalSecondPremium": 5944,
+                    "e2ESupplier": "ET",
+                    "monthlyIncome": 0,
+                    "nonDirectMonthlyPremiumGST": 0,
+                    "insuredDiscountQuarterly": 0,
+                    "supplierName": "Edelweiss_Tokio",
+                    "halfYearlyTotalPremiumWithRiders": 2860,
+                    "lumpsumBenefitPercentage": 0,
+                    "quarterlyTotalPremium": 1452,
+                    "maturityBenefitValues": {},
+                    "maxOneTimePayout": 5000000,
+                    "survivalBenefitQuarterly": 0,
+                    "quarterlyExtraPremiumPayable": 0,
+                    "planShortName": "Zindagi Protect",
+                    "nonDirectMonthlyPremiumWGST": 0,
+                    "halfYearlyPremiumGST": 464,
+                    "riderErrorMsg": "",
+                    "categoryId": 0,
+                    "basePlanId": 46684,
+                    "physicalAnnualPremium": 0
+                }
+            ],
+            "riderDetails": {
+                "riders": [],
+                "dependentPremiums": {
+                    "premiumDependencyCategoryIds": [],
+                    "visibleDependencyCategoryIds": [],
+                    "visibleDependencyAddOnPremiums": {},
+                    "premiumDependencyAddOnPremiums": {}
+                },
+                "validations": {
+                    "dependencies": []
+                }
+            },
+            "featuresExclusion": {
+                "mainDescription": [
+                    {
+                        "properties": [
+                            {
+                                "item": [
+                                    {
+                                        "heading": "Death Benefit Payment Mode",
+                                        "description": "Death Benefit will be payable in Death Benefit Payment mode selected by you and as described below: ",
+                                        "points": [
+                                            {
+                                                "heading": "Lumpsum",
+                                                "description": "Death Benefit will be paid in lumpsum"
+                                            },
+                                            {
+                                                "heading": "Monthly Income",
+                                                "description": "A specific percentage of Death Benefit will be payable every month for the fixed number of months (36, or 60) starting from next policy monthiversary from the date of death. The specific percentage of Death Benefit depending on the number of months selected is given below"
+                                            },
+                                            {
+                                                "heading": "Lumpsum plus Monthly Income",
+                                                "description": "Under this mode, you will choose the proportion of Death Benefit to be received as lumpsum on death and the balance in the form of monthly income after death. The minimum proportion that can be chosen in lumpsum form is 1% and maximum proportion can be 99%. The lumpsum proportion chosen needs to be in multiple of 1%, for instance 1%, 2%, 3% and so on but the multiple percentage cannot be in decimals for instance 1.2%, 2.35% etc. The Monthly Income benefit will apply in the way described above under \u2018Monthly Income\u2019 mode. Death benefit payment mode once chosen cannot be changed during the term of the policy. The death benefit payment mode for Additional Benefit, if any, will be same as the death benefit for the base plan option, if applicable. The policyholder and the life insured shall be the same person, unless insurable interest is established."
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "type": "list"
+                            }
+                        ],
+                        "mainHeading": "Benefits"
+                    },
+                    {
+                        "properties": [
+                            {
+                                "item": [
+                                    {},
+                                    {}
+                                ],
+                                "type": "list"
+                            }
+                        ],
+                        "mainHeading": "Key Features"
+                    },
+                    {
+                        "properties": [
+                            {
+                                "item": [
+                                    {
+                                        "heading": "Suicide Exclusion",
+                                        "description": " In case of death due to suicide of terminal illness within 12 months from the date of commencement of risk or revival of the policy, the nominee of the policyholder shall be entitled to 80% of the premiums paid or the surrender value available as on the date of death whichever is higher."
+                                    }
+                                ],
+                                "type": "list",
+                                "mainHeading": "Plan Exclusion"
+                            }
+                        ],
+                        "mainHeading": "Exclusions"
+                    },
+                    {
+                        "properties": [
+                            {
+                                "item": [
+                                    {
+                                        "column1": "Entry Age",
+                                        "column2": "Min : 18 yrs, Max: 65 yrs"
+                                    },
+                                    {
+                                        "column1": "Maturity Age",
+                                        "column2": "100 yrs"
+                                    },
+                                    {
+                                        "column1": "Policy Term",
+                                        "column2": "Minimum : 23 Years; | Maximum: 100 years - age at entry of Life Insured"
+                                    },
+                                    {
+                                        "column1": "Premium Payment Term",
+                                        "column2": " Regular and Limited Pay \u2013 5 | 7| 10|15| 20 years"
+                                    },
+                                    {
+                                        "column1": "Minimum Base Sum Assured (Rs.)",
+                                        "column2": "Min : 50 Lacs, Max : No Limit"
+                                    },
+                                    {
+                                        "column1": "Premium Payment Frequency",
+                                        "column2": "Yearly, Half Yearly, Quarterly and Monthly"
+                                    }
+                                ],
+                                "type": "table"
+                            }
+                        ],
+                        "mainHeading": "Eligibility Criterion for Zindagi Protec Plan"
+                    }
+                ],
+                "planId": 46684,
+                "planDescription": ""
+            }
+        }
+    ],
+    "custInfo": {
+        "agentId": 0,
+        "otherCountryCode": 91,
+        "annualIncome": 2,
+        "gender": 2,
+        "policyTerm": 60,
+        "categoriesLastUpdatedTime": 0,
+        "matrixParentLeadId": 0,
+        "cityId": 309,
+        "totalPayout": 5000000,
+        "oneTimePayout": 0,
+        "customerMember": 0,
+        "spouse": {
+            "tobacco": 0,
+            "age": 0,
+            "isWorking": 0
+        },
+        "countryId": 392,
+        "fixedAnnualIncomeId": 0,
+        "premium": 0,
+        "visitId": 1436224319,
+        "educationalQualificationType": 1,
+        "custId": 85146408,
+        "isTobaccoUser": 0,
+        "subProductTypeId": 0,
+        "monthlyIncome": 30000,
+        "customerAge": 24,
+        "professionType": "Salaried",
+        "nri": 0,
+        "encMobile": "t22ut36",
+        "stateId": 20,
+        "encryptedMobileNo": "rVweRqdLm6/Jhkz8o7I8jQ==",
+        "mobileNo": "******8080",
+        "categoryIds": [],
+        "sumAssuredExist": false,
+        "dob": "28-02-1999",
+        "matrixLeadId": 566461492,
+        "name": "Sreelakshmi Suresh",
+        "enquiryId": 501895203,
+        "sumassured": 5000000,
+        "paymentTerm": 36,
+        "eligibleSumAssured": 0,
+        "encodedEnquiryId": "DlqAv9rneI8UWcpvsMgzNA=="
+    },
+    "incomeTerm": 20,
+    "ppt": 0,
+    "groupId": 1,
+    "isAllPlanLoaded": true,
+    "isPremiumDiscounted": false,
+    "isMultiplePlanExist": true,
+    "_class": "com.policybazaar.term.mongo.db.ProductDetails",
+    "planToSwitch": 0
+}

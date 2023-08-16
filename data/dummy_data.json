@@ -1,0 +1,86 @@
+{
+    "quotes": [
+        {
+            "Claims_Settled": "99.51",
+            "Discount": 0,
+            "DisplayMore": null,
+            "EnquiryID": 0,
+            "IsLastSelected": false,
+            "IsSelected": false,
+            "IsSubscribe": true,
+            "MedicalNeeded": "Yes",
+            "MinPremium": null,
+            "Mortality": 0,
+            "OneTimePayout": 5000000,
+            "PlanType": "TERM",
+            "Plan_Category": [],
+            "Plan_Id": 9908,
+            "Plan_Name": "Smart Secure Plus",
+            "PolicyFee": 0,
+            "PolicyTerm": 36,
+            "QuotePref": "",
+            "SumAssured": 5000000,
+            "SumassuredID": 7,
+            "Supplier_FullName": "Max Life insurance Co. Ltd",
+            "Supplier_Id": 10,
+            "Supplier_Name": "MAX",
+            "TROPPriority": 0,
+            "TermPageCounter": "",
+            "TotalCover": 5000000,
+            "claimsettlementRatio": 98.7,
+            "comboID": 0,
+            "isE2E": false,
+            "lstRiders": null,
+            "maxMaturityAge": 85,
+            "orgSumassured": 5000000,
+            "planShortName": "Smart Secure Plus",
+            "tATData": "14",
+            "NPVValue": 0,
+            "maxCoverageAge": 85,
+            "monthlyIncome": 0,
+            "riderDetails": [
+                {
+                    "PlanId": 39104,
+                    "SumInsured": 1000000,
+                    "riderId": 479,
+                    "catrgoryId": 10,
+                    "Rider_Name": "Accidental Death Benefit",
+                    "MinAge": 0,
+                    "MaxAge": 100,
+                    "Deductible": 0,
+                    "MinSum": 100000,
+                    "MaxSum": 20000000,
+                    "PolicyTerm": 36,
+                    "PremiumPayingTerm": 0,
+                    "TypeSelected": null,
+                    "premiumFrequency": [
+                        {
+                            "PaymentFrequency": "Yearly",
+                            "PremiumWithoutGST": 570.0,
+                            "GSTOnPremium": 102.6,
+                            "TotalPremium": 672.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        },
+                        {
+                            "PaymentFrequency": "Half-yearlyly",
+                            "PremiumWithoutGST": 289.0,
+                            "GSTOnPremium": 52.0,
+                            "TotalPremium": 337.0,
+                            "TotalPremiumWithRiders": 0.0,
+                            "survivalBenefit": 0,
+                            "SecondYearPremium": 0.0,
+                            "SecondYearPremiumWGST": 0.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "premiumPayingTerm": 60,
+    "originalSupplierId": 10,
+    "IsPremiumDiscounted": false
+
+}
