@@ -1,0 +1,41 @@
+{
+    "SupplierName": "Supplier_Name",
+    "Plans": [
+        "PremiumSummary",
+        [
+            {
+                "PlanID": "ProductCode",
+                "PlanName": "ProductName",
+                "PolicyTerm": "PremiumPaymentTerm",
+                "Term": "Term",
+                "PayoutTerm": "PayoutTerm",
+                "IsSelected": "SelectedOption",
+                "AnnualPremium": "AnnualPremium",
+                "DeathBenefit": "DeathBenefit",
+                "Premiums": {
+                    "PremiumWithoutGST": "PremiumInstallment",
+                    "TotalPremium": "PremiumInstallmentWithTax",
+                    "modeOfPremium": "ModeOfPayment",
+                    "AdditionalDetails": "extract_values"
+                },
+                "Riders": [
+                    "RiderDetails.Rider",
+                    [
+                        {
+                            "RiderName": "Name",
+                            "SumAssured": "SA",
+                            "Term": "Term",
+                            "Premiums": {
+                                "Premium": "Premium",
+                                "ServiceTax": "ServiceTax",
+                                "AdditionalDetails": "extract_values"
+                            }
+                        }
+                    ]
+                ],
+                "AdditionalDetails": "extract_values"
+            }
+        ]
+    ],
+    "AdditionalDetails": "extract_values"
+}

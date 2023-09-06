@@ -1,8 +1,9 @@
 import azure.functions as func
 import logging
 import json
-from . import hdfc_response_parser, icici_response_parser
+from . import hdfc_response_parser, icici_response_parser, response_parser
 from abc import ABC, abstractmethod
+
 
 bp = func.Blueprint()
 
@@ -11,14 +12,26 @@ class get_Response(ABC):
     def get_service_provider(self,data):
         pass
 
+# class icici_response(get_Response):
+#     def get_service_provider(self,data):
+#         return icici_response_parser.final_response(data)
+
+# class hdfc_response(get_Response):
+#     def get_service_provider(self,data):
+#         return hdfc_response_parser.final_response(data)
+
 class icici_response(get_Response):
     def get_service_provider(self,data):
-        return icici_response_parser.final_response(data)
-
+        mapping_file = 'mappings/icici_mapping.json'
+        spec_file='specifications/icici_to_standard_spec.json'
+        return response_parser.get_data(mapping_file, spec_file,data)
+    
 class hdfc_response(get_Response):
     def get_service_provider(self,data):
-        return hdfc_response_parser.final_response(data)
-    
+        mapping_file = 'mappings/hdfc_mapping.json'
+        spec_file='specifications/hdfc_to_standard_spec.json'
+        return response_parser.get_data(mapping_file, spec_file,data)
+
 # mapping providers to their classes
 def get_json_data(provider_name,data):
     provider_mapping = {
@@ -48,4 +61,6 @@ def parse_response(req: func.HttpRequest) -> func.HttpResponse:
 
     )
         
+    
+
     

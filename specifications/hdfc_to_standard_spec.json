@@ -1,0 +1,59 @@
+{
+    "SupplierName": "Supplier_Name",
+    "Plans": ["quotes",[
+            {
+                "SupplierName": "Supplier_Name",
+                "SupplierID": "Supplier_Id",
+                "PlanID": "Plan_Id",
+                "PlanName": "Plan_Name",
+                "SumAssured": "SumAssured",
+                "TotalCover": "TotalCover",
+                "OneTimePayout": "OneTimePayout",
+                "PolicyTerm": "PolicyTerm",
+                "ClaimsSettled": "Claims_Settled",
+                "Premiums": ["premiumFrequency",[
+                        {
+                            "PaymentFrequency": "PaymentFrequency",
+                            "PremiumWithoutGST": "PremiumWithoutGST",
+                            "GSTOnPremium": "GST_On_Premium",
+                            "TotalPremium": "Total_Premium",
+                            "TotalPremiumWithRiders": "TotalPremiumWithRiders",
+                            "AdditionalDetails": "extract_values"
+                        }
+                    ]
+                ],
+                "Riders": ["riderDetails",[
+                        {
+                            "RiderName": "Rider_Name",
+                            "RiderId": "riderId",
+                            "PlanID": "Plan_Id",
+                            "CategoryId": "categoryId",
+                            "MinSumAssured": "MinSum",
+                            "MaxSumAssured": "MaxSum",
+                            "PolicyTerm": "PolicyTerm",
+                            "PremiumPayingTerm": "PremiumPayingTerm",
+                            "TypeSelected": "TypeSelected",
+                            "SumInsured": "SumInsured",
+                            "Premiums": ["premiumFrequency",[
+                                    {
+                                        "PaymentFrequency": "PaymentFrequency",
+                                        "PremiumWithoutGST": "PremiumWithoutGST",
+                                        "GSTOnPremium": "GST_On_Premium",
+                                        "TotalPremium": "Total_Premium",
+                                        "TotalPremiumWithRiders": "TotalPremiumWithRiders",
+                                        "AdditionalDetails": "extract_values"
+                                    }
+                                ]
+                            ],
+                            "AdditionalDetails": "extract_values"
+                        }
+                    ]
+                ],
+                "AdditionalDetails": "extract_values"
+            }
+        ]
+    ],
+    "PolicyTerm": "premiumPayingTerm",
+    "IsPremiumDiscounted": "IsPremiumDiscounted",
+    "AdditionalDetails": "extract_values"
+}

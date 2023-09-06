@@ -19,6 +19,7 @@
     "PremiumInstallmentWithTax":"TotalPremium",
     "ModeOfPayment":"modeOfPremium",
     "Rider":"Riders",
+    "RiderDetails":"RiderDetails",
     "Name":"RiderName",
     "SA":"SumAssured",
     "ServiceTax":"ServiceTax",

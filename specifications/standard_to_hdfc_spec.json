@@ -1,0 +1,91 @@
+{
+    "quotes":["Plans",[
+        {
+            "Claims_Settled":"ClaimsSettled",
+            "Discount":"AdditionalDetails.Discount",
+            "DisplayMore":"AdditionalDetails.DisplayMore",
+            "EnquiryID":"AdditionalDetails.EnquiryID",
+            "IsLastSelected":"AdditionalDetails.IsLastSelected",
+            "IsSubscribe": "AdditionalDetails.IsSubscribe",
+            "MedicalNeeded": "AdditionalDetails.MedicalNeeded",
+            "MinPremium": "AdditionalDetails.MinPremium",
+            "Mortality": "AdditionalDetails.Mortality",
+            "OneTimePayout":"OneTimePayout",
+            "PlanType": "AdditionalDetails.PlanType",
+            "Plan_Id": "PlanID",
+            "Plan_Name":"PlanName",
+            "PolicyTerm":"PolicyTerm",
+            "PolicyFee": "AdditionalDetails.PolicyFee",
+            "QuotePref": "AdditionalDetails.QuotePref",
+            "SumassuredID": "AdditionalDetails.SumassuredID",
+            "Supplier_FullName": "AdditionalDetails.Supplier_FullName",
+            "SumAssured":"SumAssured",
+            "Supplier_Id":  "SupplierID",
+            "TROPPriority": "AdditionalDetails.TROPPriority",
+            "TermPageCounter": "AdditionalDetails.TermPageCounter",
+            "TotalCover":"TotalCover",
+            "claimsettlementRatio": "AdditionalDetails.claimsettlementRatio",
+            "comboID": "AdditionalDetails.comboID",
+            "isE2E": "AdditionalDetails.isE2E",
+            "lstRiders": "AdditionalDetails.lstRiders",
+            "maxMaturityAge": "AdditionalDetails.maxMaturityAge",
+            "orgSumassured": "AdditionalDetails.orgSumassured",
+            "planShortName": "AdditionalDetails.planShortName",
+            "tATData": "AdditionalDetails.tATData",
+            "NPVValue": "AdditionalDetails.NPVValue",
+            "maxCoverageAge": "AdditionalDetails.maxCoverageAge",
+            "monthlyIncome": "AdditionalDetails.monthlyIncome",
+            "premiumFrequency":["Premiums",[
+            {
+                "PaymentFrequency": "PaymentFrequency",
+                "PremiumWithoutGST": "PremiumWithoutGST",
+                "GST_On_Premium": "GSTOnPremium",
+                "Total_Premium": "TotalPremium",
+                "TotalPremiumWithRiders":"TotalPremiumWithRiders",
+                "survival_Benefit": "AdditionalDetails.survival_Benefit",
+                "SecondYearPremium": "AdditionalDetails.SecondYearPremium",
+                "SecondYearPremiumWGST": "AdditionalDetails.SecondYearPremiumWGST"
+               
+            }
+        ]],
+            "riderDetails":["Riders",[
+                {
+                "Plan_Id": "PlanID" ,
+                "SumInsured": "SumInsured",
+                "riderId": "RiderId",
+                "categoryId": "CategoryId",
+                "Rider_Name":"RiderName",
+                "MinAge": "AdditionalDetails.MinAge",
+                "MaxAge": "AdditionalDetails.MaxAge",
+                "Deductible": "AdditionalDetails.Deductible",
+                "MinSum":"MinSumAssured",
+                "MaxSum":"MaxSumAssured",
+                "PremiumPayingTerm":"PremiumPayingTerm",
+                "TypeSelected":"TypeSelected",
+                "PolicyTerm":"PolicyTerm",
+                "premiumFrequency":["Premiums",[
+                    {
+                        "PaymentFrequency": "PaymentFrequency",
+                        "PremiumWithoutGST": "PremiumWithoutGST",
+                        "GST_On_Premium": "GSTOnPremium",
+                        "Total_Premium": "TotalPremium",
+                        "TotalPremiumWithRiders":"TotalPremiumWithRiders",
+                        "survival_Benefit": "AdditionalDetails.survival_Benefit",
+                        "SecondYearPremium": "AdditionalDetails.SecondYearPremium",
+                        "SecondYearPremiumWGST": "AdditionalDetails.SecondYearPremiumWGST"
+               
+                    }
+                ]]
+                    
+                    
+                }
+                    
+        ]]
+    }
+    ]
+],
+    "premiumPayingTerm": "AdditionalDetails.premiumPayingTerm",
+    "originalSupplierId": "AdditionalDetails.originalSupplierId",
+    "IsPremiumDiscounted": "AdditionalDetails.IsPremiumDiscounted"
+
+}
