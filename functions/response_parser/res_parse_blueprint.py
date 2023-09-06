@@ -1,7 +1,7 @@
 import azure.functions as func
 import logging
 import json
-from . import hdfc_response_parser, icici_response_parser, response_parser
+from . import response_parser
 from abc import ABC, abstractmethod
 
 
@@ -12,13 +12,7 @@ class get_Response(ABC):
     def get_service_provider(self,data):
         pass
 
-# class icici_response(get_Response):
-#     def get_service_provider(self,data):
-#         return icici_response_parser.final_response(data)
 
-# class hdfc_response(get_Response):
-#     def get_service_provider(self,data):
-#         return hdfc_response_parser.final_response(data)
 
 class icici_response(get_Response):
     def get_service_provider(self,data):
